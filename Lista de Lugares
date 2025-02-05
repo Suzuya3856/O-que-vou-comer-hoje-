@@ -1,0 +1,22 @@
+[
+    {
+        "Nome:": "Dino's Lanches",
+        "Prato:": "Dog Completo",
+        "Preço": 21
+    },
+    {
+        "Nome:": "JL Lanches",
+        "Prato:": "X-Marmita",
+        "Preço": 38
+    },
+    {
+        "Nome:": "Let's Eat",
+        "Prato:": "Barbacoa Burrito",
+        "Preço": 50
+    },
+    {
+        "Nome:": "Ben's Chicken",
+        "Prato:": "2 lanche de frango",
+        "Preço": 37
+    }
+]
