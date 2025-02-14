@@ -32,8 +32,3 @@ class Lugares:
             print(f"{lugar.nome.ljust(20)} | {lugar.prato.ljust(20)} | {lugar.preço}")
 
 
-# objetos adicionados na classe
-dino = Lugares("Dino's Lanches", "Dog Completo", 21)
-jl = Lugares("JL Lanches", "X-Marmita", 38)
-lets = Lugares("Let's Eat", "Barbacoa Burrito", 50)
-bens = Lugares("Ben's Chicken", "2 lanche de frango", 37)
